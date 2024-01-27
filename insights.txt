@@ -1,0 +1,53 @@
+1. inrease in arpu alongside descrease in avg revenue suggest a shift in user behavior.
+while individual users may be spending more the overall revenue decrease implies that
+total number of user or transections might have decreased.
+
+2. arpu increase after 5g is 11.05% while revenue decrease after 5g is -0.5%.
+
+3.Delhi(-2.83%),chennai(-2.59%),ahmedabad(-2.02%),hyderabad(-1.29%) lost most of its revenue after 5g which is total 8.73%.
+
+4.kolkata(1.82%),gurgaon(1.51%),patna(1.48%),raipur(1.15%) gain increase in revenue after 5g which is total 5.96%.
+
+5.However ARPU increase but pune(-12.88%) and chennai(-2.59%) lost .
+
+6.raipur(22.25%),ahemedabad(21.84%),patna(20.26%),banglore(19.6%),delhi(18.8%) are city where ARPU increase.
+
+7.Kolkata(5.03%),jaipur(7.31%),lucknow(8%),coimbatore(8.25%) city where ARPU is least.
+
+8.20.13% increase in revenue in feb compare to jan.chennai(25.10 cr),lucknow(12.91 cr),delhi(11.47 cr) contribute most while jaipur lost(6.54 cr) compare to jan.
+
+9. there was 12.19% decrease in revenue just before 5g era.
+
+10.After 5g revenue increase by 15.44% and top contributor are chennai(23.32 cr),lucknow(12.48 cr),delhi(9.18 cr) while there is decrement of revenue in jaipur of (7.56 cr).
+
+11.However revenue increase 1.53% compare to july but there is huge loss of revenue in chennai(23.6 cr) and lucknow(9.10 cr).
+   kolkata(30.88 cr) and ahmedabad (9.79 cr) compensate this huge loss caused by chennai and lucknow zone.
+
+12.revenue decrease 4.49% compare to august and kolkata(21.05 cr),coimbatore(9.11 cr),ahmedabad(6.16 cr) lose revenue most.however pune(14.13 cr) and mumbai(6.46 cr) show increase in revenue.
+
+13. there is trend in revenue & city.city which increase revenue in one month lost revenue in another month.this may be due to service issues like(port issues,network issues,plan issues).
+
+14. apart from pune,lucknow,chennai every city losing its monthly active users and ahemedabad,delhi,raipur,patna,mumbai is major city where Atliqis loosing monthly active users .
+
+
+15.Apart from mumbai every city have monthly unsubscribe users perecntage.lucknow,pune,jaipur,chandigarh,hyderabad is major city where monthly unsubscribed users change percent is high.
+
+16.Monthly Active users increase 24.24% after 5g launch but is decreasing every month after that.in first month it falls by 3.18% & in second month 7.92%.
+
+17.Monthly Unsubscribed users increasin before and after 5g era however in sepetmber month where its 10.18% less unsubscriber then august.
+
+18.After 5g launch monthly unsubscriber rate increased.
+
+19.Atliq is 3rd position in market share.
+
+20. p11,p12,p13 are the plans which use after 5g.
+
+21. p1,p2,p3,p4,p11 are most revenue genearted plan overall.however p1,p11,p2,p12,p3 are top 5 plans after 5g and p1,p2,p3,p4,p5 are most revenue generated plans before 5g.
+
+22. p10,p9,p8,p7,p6 are bottom 5 least revenue genarted plans before 5g.p7,p13,p6,p5,p4 are bottom 5 least genareted plan after 5g.
+
+23.p9,p10,p8 plans didnt use after 5g.
+
+24. Bottom 5 plans by revenue are p7,p8,p13,p9,10
+
+25. top 5 plans by revenue p1,p2,p3,p4,p11
